@@ -1,0 +1,22 @@
+12
+12
+item0 2 - item10 item9 item13 item18 item8
+item1 6 - item17 item4 item5 item12 item9 item8 item7
+item2 3 - item18 item0 item5
+item3 8 - item11 item6 item5 item19 item12 item7
+item4 8 + item10 item6 item0 item8
+item5 4 + item1 item0
+item6 3 + item13 item3 item1 item18 item9 item17
+item7 4 + item16 item4
+item8 3 - item4 item19
+item9 3 - item15 item18 item11
+item10 8 + item4 item15 item17 item19
+item11 7 + item14 item18
+item12 4 + item2 item16 item7
+item13 3 - item19 item14 item0
+item14 8 - item1 item19 item8 item15 item17 item10
+item15 3 + item11 item7 item2 item16 item12 item18 item1
+item16 4 + item2 item13 item6 item1 item3 item14
+item17 4 + item10 item9 item11 item1
+item18 7 + item13 item9 item7
+item19 4 - item12 item14 item13

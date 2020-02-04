@@ -1,0 +1,14 @@
+7
+8
+item0 5 - item1
+item1 1 - item2 item9 item3
+item2 4 - item6 item8 item5 item4 item3
+item3 4 - item6 item2 item4 item10 item0
+item4 3 - item11 item5 item10 item7 item0
+item5 5 - item3 item7 item1 item2
+item6 5 - item1 item9 item2
+item7 5 - item8
+item8 4 - item7 item2 item4 item11
+item9 2 - item3 item8 item0 item4 item5
+item10 2 - item5 item4 item9 item6
+item11 2 - item3 item1 item5
